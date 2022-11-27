@@ -25,7 +25,9 @@ Agglomerative Clustering, Spectral Clustering, Gaussian Mixture Model, K-means C
 
 
 Homework4(Unsupervised Learning)
-MNIST data Classification PCA & Kernel PCA 
+MNIST data Classification PCA & Kernel PCA  
+
+
 ![스크린샷 2022-11-27 오후 9 42 54](https://user-images.githubusercontent.com/43608973/204135931-c78cbf32-c737-448f-aa58-d21eaf962afe.png)
 ![스크린샷 2022-11-27 오후 9 43 13](https://user-images.githubusercontent.com/43608973/204135943-32fae995-ce06-47ff-a06d-39d793518740.png)
 
